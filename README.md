@@ -24,4 +24,4 @@ Project developed in parts: `API`, `Extension` and `Dashboard (Website)`:
 ![image](https://user-images.githubusercontent.com/48892662/174512261-e647b569-1698-4015-83b2-9b909edfa47b.png)
 
 ---
-<a href="https://www.buymeacoffee.com/cesinha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="119"></a>
+<a href="https://www.buymeacoffee.com/paulojunqueira" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="119"></a>
